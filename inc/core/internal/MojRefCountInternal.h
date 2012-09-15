@@ -16,6 +16,7 @@
 *
 * LICENSE@@@ */
 
+#include "core/MojUtil.h"
 
 #ifndef MOJREFCOUNTINTERNAL_H_
 #define MOJREFCOUNTINTERNAL_H_
